@@ -39,6 +39,7 @@ return [
     'Company' => 'Компания',
     'Position' => 'Должность',
     'Contact source' => 'Источник контакта',
+    'Telephone' => 'Телефон',
     'City' => 'Город',
     'Postcode' => 'Индекс',
     'Other/Note' => 'Доп. инфо',

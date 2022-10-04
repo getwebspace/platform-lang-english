@@ -22,6 +22,7 @@ return [
     'Templates' => 'Шаблоны',
     'Group and access rights' => 'Группа и права доступа',
     'Login options' => 'Параметры входа',
+    'General' => 'Основные',
     'Import and Export' => 'Импорт и Экспорт',
     'Additionally' => 'Дополнительно',
 

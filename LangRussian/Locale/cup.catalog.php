@@ -81,7 +81,7 @@ return [
     'Special' => 'Акция',
     'Width (cm)' => 'Ширина (см)',
     'Height (cm)' => 'Высота (см)',
-    'Length (cm)' => 'Длинна (см)',
+    'Length (cm)' => 'Длина (см)',
     'Volume' => 'Объем',
     'Depends on the chosen dimension' => 'Зависит от выбранной размерности',
     'Dimension' => 'Размерность',

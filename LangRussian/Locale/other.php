@@ -45,12 +45,14 @@ return [
     'Notifications yet' => 'Уведомлений пока нет',
     'No data about background tasks' => 'Нет данных о фоновых задачах',
     'Update search index' => 'Обновить поисковый индекс',
+    'Convert all images' => 'Конвертировать все изображения',
     'Are you sure you want to perform this action now?' => 'Вы действительно хотите выполнить это действие сейчас?',
 
     // ***
     // Tasks name
     // ***
     'Image processing' => 'Обработка изображений',
+    'Re process images' => 'Повторная обработка изображений',
     'Import catalog from Excel file' => 'Импорт каталога из Excel файла',
     'Search indexing' => 'Поисковая индексация',
     'Sending JSON' => 'Отправка JSON',
@@ -98,6 +100,7 @@ return [
     'price' => 'Цена',
     'stock' => 'Наличие',
     'date' => 'Дата',
+    'order' => 'Порядок',
     'DESC' => 'По убыванию',
     'ASC' => 'По возрастанию',
 

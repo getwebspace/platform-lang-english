@@ -6,6 +6,7 @@ return [
     // ***
 
     'List of files' => 'Список файлов',
+    'Drag and Drop files here'  =>  'Перетащите файлы сюда',
     'File name' => 'Имя',
     'Size' => 'Размер',
     'Creation date' => 'Дата создания',

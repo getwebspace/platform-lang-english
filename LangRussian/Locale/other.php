@@ -120,11 +120,13 @@ return [
     'Submit' => 'Отправить',
 
     // ***
-    // Image\images
+    // Image\images\files
     // ***
     'Image' => 'Изображение',
     'Images' => 'Изображения',
     'Multiple images can be selected here' => 'Здесь можно выбрать несколько изображений',
+    'File' => 'Файл',
+    'Multiple files can be selected here' => 'Здесь можно выбрать несколько файлов',
 
     // ***
     // Content type

@@ -13,7 +13,7 @@ class LangRussianPlugin extends AbstractPlugin
     const TITLE = 'Русский язык';
     const AUTHOR = 'Aleksey Ilyin';
     const AUTHOR_SITE = 'https://getwebspace.org';
-    const VERSION = '1.1.1';
+    const VERSION = '1.1.2';
 
     public function __construct(ContainerInterface $container)
     {

@@ -118,6 +118,7 @@ return [
     'Search' => 'Найти',
     'Reset' => 'Сбросить',
     'Submit' => 'Отправить',
+    'Upload' => 'Загрузить',
 
     // ***
     // Image\images\files

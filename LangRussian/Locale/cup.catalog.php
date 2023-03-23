@@ -59,6 +59,8 @@ return [
 
     // product
     'Import products' => 'Импорт продуктов',
+    'Excel file' => 'Файл Excel',
+    'The Excel file must match the import settings' => 'Файл Excel должен соответствовать настройкам импорта',
     'Export current product list' => 'Экспорт текущего списка продуктов',
     'Create product' => 'Создать продукт',
     'Packing volume' => 'Объем упаковки',

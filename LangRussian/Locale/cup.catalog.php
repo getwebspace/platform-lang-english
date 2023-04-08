@@ -124,6 +124,7 @@ return [
     'Invoice' => 'Инвойс',
     'Order' => 'Заказ',
     'Delivery' => 'Доставка',
+    'Shipping' => 'Доставка',
     'Item' => 'Позиция',
     'Price' => 'Цена',
     'Quantity' => 'Количество',

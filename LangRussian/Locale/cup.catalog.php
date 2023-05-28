@@ -78,6 +78,7 @@ return [
     'First price' => 'Цена закупки',
     'Selling price' => 'Цена продажи',
     'Price wholesale' => 'Цена оптовая',
+    'Price wholesale from' => 'Цена оптом от',
     'Discount' => 'Скидка',
     'Tax' => 'Налог',
     'Special' => 'Акция',

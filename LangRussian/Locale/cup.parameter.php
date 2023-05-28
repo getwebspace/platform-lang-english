@@ -32,6 +32,7 @@ return [
     'Site title' => 'Название сайта',
     'for example: "My home page"' => 'например: "Моя домашняя страница"',
     'Home page address' => 'Домашняя страница сайта',
+    'Auto redirect to non-www' => 'Автоматически убирать www.',
     'Enter the address of the home page of your site, including a slash at the end. For example: http://yoursite.com/' => 'Укажите адрес главной страницы вашего сайта, включая слеш в конце. Например: http://yoursite.com/',
     'Description (Description) of the site' => 'Описание (Description) сайта',
     'Short description, no more than 200 characters' => 'Краткое описание, не более 200 символов',

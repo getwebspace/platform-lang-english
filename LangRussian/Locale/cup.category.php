@@ -10,6 +10,7 @@ return [
     'Create a new category' => 'Создание новой категории',
     'Category editing' => 'Редактирование категории',
     'Primary category' => 'Основная категория',
+    'Hidden category' => 'Скрытая категория',
     'Show nested categories' => 'Показывать вложенные категории',
 
     'Category template' => 'Шаблон категории',

@@ -23,6 +23,8 @@ return [
     'Nomenclature' => 'Номенклатура',
     'Attributes' => 'Атрибуты',
     'Orders' => 'Заказы',
+    'Order statuses' => 'Статусы заказа',
+    'Invoice template' => 'Шаблон инвойса',
     'Guest book' => 'Гостевая книга',
     'Files' => 'Файлы',
     'Settings' => 'Настройки',

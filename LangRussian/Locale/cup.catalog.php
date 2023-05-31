@@ -100,8 +100,8 @@ return [
     'Additional description' => 'Дополнительное описание товара',
 
     // order
-    'Invoice template' => 'Шаблон инвойса',
-    'Order statuses' => 'Статусы заказа',
+    'Date From' => 'Дата добавления С',
+    'Date To' => 'Дата добавления По',
     'List of orders' => 'Список заказов',
     'Create order' => 'Создать заказ',
     'Client' => 'Клиент',
@@ -114,6 +114,7 @@ return [
     'Delivery date' => 'Дата доставки',
     'Technical information' => 'Техническая информация',
     'Order list' => 'Состав заказа',
+    'Order date' => 'Дата добавления',
 
     // order status
     'Create status' => 'Создать статус',

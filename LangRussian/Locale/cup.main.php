@@ -62,4 +62,5 @@ return [
     'Filling the base' => 'Заполнение базы',
     'system_demo' => 'Demo + Default data',
     'Default data' => 'system_default',
+    'Are you sure?' => 'Вы уверены?',
 ];

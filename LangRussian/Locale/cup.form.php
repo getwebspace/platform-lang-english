@@ -20,6 +20,7 @@ return [
     'Create a new form' => 'Создание новой формы',
     'Form editing' => 'Редактирование формы',
     'Form' => 'Форма',
+    'Letter title' => 'Заголовок письма',
     'Recipients' => 'Получатели',
     'Brief description of the form' => 'Краткое описание формы',
     'Contact form' => 'Форма контактов',
@@ -35,6 +36,7 @@ return [
     'Ability to disable reCAPTCHA validation individually for the current form.<br/>Default: enabled' => 'Возможность отключить проверку reCAPTCHA индивидуально для текущей формы.<br/>По-умолчанию: включено',
     'Duplicate data' => 'Дублировать данные',
     'The received data will be duplicated to the specified address in JSON format' => 'Полученные данные будут продублированы на указанный адрес в формате JSON',
+    'Form address. You can leave it blank, then the value will be generated automatically. It is allowed to use only Latin characters and numbers without spaces' => 'Адрес формы. Вы можете оставить это поле пустым, тогда значение будет сгенерировано автоматически. Разрешается использовать только латинские буквы и цифры без пробелов.',
 
     // list data
     'List of applications received' => 'Список полученных заявок',

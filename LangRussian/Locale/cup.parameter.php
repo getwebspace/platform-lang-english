@@ -144,6 +144,8 @@ return [
 
     'Action' => 'Действие',
     'Required data action on import' => 'Необходимое действие с данными при импорте',
+    'Insert and update' => 'Вставка и обновление',
+    'Update only' => 'Только обновление',
     'Indentation in lines' => 'Отступ в строках',
     'Number of lines to indent from top' => 'Количество строк, которые необходимо отступить сверху',
     'Indentation in columns' => 'Отступ в колонках',

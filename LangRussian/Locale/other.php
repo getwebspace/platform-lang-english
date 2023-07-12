@@ -40,6 +40,15 @@ return [
     'A careful check of the value is required!' => 'Требуется внимательная проверка значения!',
 
     // ***
+    // Forbidden page
+    // ***
+    'Access is denied' => 'В доступе отказано',
+    'You currently do not have access to the requested page!' => 'В настоящее время у вас нет доступа к запрошенной странице!',
+    'If you are sure that the address is typed correctly:' => 'Если вы уверены, что адрес введен правильно:',
+    'check permissions' => 'проверьте права доступа',
+    'contact the administrator' => 'свяжитесь с администратором',
+
+    // ***
     // Sidebar
     // ***
     'Notifications yet' => 'Уведомлений пока нет',

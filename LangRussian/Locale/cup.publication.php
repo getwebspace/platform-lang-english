@@ -21,6 +21,7 @@ return [
     'Link to view the article. You can leave it blank, then the value will be generated automatically. Only Latin characters and numbers without spaces are allowed' => 'Cсылка для просмотра статьи в браузере. Можно оставить пустым, тогда значение будет сгенерировано автоматически. Допустимо использование только латинских символов и цифер без пробелов',
     'Brief content' => 'Краткое содержимое',
     'Full content' => 'Полное содержимое',
+    'About Us' => 'О нас',
 
     // ***
     // Publication category

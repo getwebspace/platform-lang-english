@@ -12,6 +12,7 @@ return array_merge(
     require_once 'cup.page.php',
     require_once 'cup.parameter.php',
     require_once 'cup.publication.php',
+    require_once 'cup.reference.php',
     require_once 'cup.user.php',
 
     require_once 'exception.php',

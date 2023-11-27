@@ -71,7 +71,7 @@ return [
     'Create group' => 'Создать группу',
     'Count users' => 'Пользователей',
     'Permissions' => 'Права доступа',
-    'Count' => 'Прав доступно',
+    'Permissions count' => 'Прав доступно',
     'No permissions' => 'Без прав',
     'Are you sure you want to delete the group?' => 'Вы действительно хотите удалить группу?',
     'Нельзя удалить группу, пока в ней есть пользователи' => 'You can\'t delete a group while it has users',

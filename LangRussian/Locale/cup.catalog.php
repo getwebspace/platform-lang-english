@@ -5,17 +5,6 @@ return [
     // Catalog
     // ***
 
-    // system install
-    'New' => 'Новый',
-    'Processing' => 'В обработке',
-    'Sent' => 'Отправлен',
-    'Delivered' => 'Доставлен',
-    'Canceled' => 'Отменён',
-    'Kilogram' => 'Килограмм', 'кг' => 'kg',
-    'Gram' => 'Грамм', 'г' => 'g',
-    'Liter' => 'Литр', 'л' => 'l',
-    'Milliliter' => 'Миллилитр', 'мл' => 'ml',
-
     // sidebar
     'Order added' => 'Добавлен заказ',
 
@@ -113,23 +102,28 @@ return [
     'Delivery address' => 'Адрес доставки',
     'Delivery date' => 'Дата доставки',
     'Technical information' => 'Техническая информация',
+    'Create status' => 'Создать статус',
     'Order list' => 'Состав заказа',
     'Order date' => 'Дата добавления',
+    'Price type' => 'Тип цены',
+    'More' => 'Больше',
+    'Select user' => 'Выбрать пользователя',
 
-    // order status
-    'Create status' => 'Создать статус',
-    'Are you sure you want to delete the order status?' => 'Вы действительно хотите удалить статус заказа?',
-    'Create a new order status' => 'Создание нового статуса заказа',
-    'Edit order status' => 'Редактирование статуса заказа',
-
-    // order invoice
+    // order other
     'Invoice' => 'Инвойс',
+    'Dispatch Note' => 'Товарная накладная',
     'Order' => 'Заказ',
     'Delivery' => 'Доставка',
     'Shipping' => 'Доставка',
     'Item' => 'Позиция',
     'Price' => 'Цена',
+    'Subtotal' => 'Итог',
+    'Total' => 'Итого',
+    'Count items' => 'Количество',
     'Quantity' => 'Количество',
+    'Default step for adding to the cart' => 'Шаг по умолчанию для добавления в корзину',
+    'Minimum Quantity' => 'Минимальное количество',
+    'Force a minimum ordered amount' => 'Установить минимальную заказанную сумму',
     'Sum' => 'Сумма',
     'Total price' => 'Общая сумма',
 ];

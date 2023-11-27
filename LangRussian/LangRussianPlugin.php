@@ -2,18 +2,18 @@
 
 namespace Plugin\LangRussian;
 
-use App\Domain\AbstractPlugin;
+use App\Domain\Plugin\AbstractLanguagePlugin;
 use Psr\Container\ContainerInterface;
 use Slim\Psr7\Request;
 use Slim\Psr7\Response;
 
-class LangRussianPlugin extends AbstractPlugin
+class LangRussianPlugin extends AbstractLanguagePlugin
 {
     const NAME = 'LangRussianPlugin';
     const TITLE = 'Русский язык';
     const AUTHOR = 'Aleksey Ilyin';
     const AUTHOR_SITE = 'https://getwebspace.org';
-    const VERSION = '1.1.2';
+    const VERSION = '4.0.1';
 
     public function __construct(ContainerInterface $container)
     {

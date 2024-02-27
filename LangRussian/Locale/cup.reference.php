@@ -25,6 +25,12 @@ return [
     'Decimal Places' => 'Десятичные знаки',
     'The value of your default currency in the current currency unit. Set to 1 for your default currency' => 'Значение вашей валюты по умолчанию в текущей денежной единице. Установите значение 1 для валюты по умолчанию.',
 
+    // payments
+    'Payment methods' => 'Методы оплаты',
+    'Create method' => 'Создать метод',
+    'Create a new payment method' => 'Создание нового метода оплаты',
+    'Edit payment method' => 'Редактирование метода оплаты',
+
     // deliveries
     'Create a new delivery' => 'Создание новой доставки',
     'Edit delivery' => 'Редактирование доставки',
@@ -45,6 +51,7 @@ return [
     'Edit order status' => 'Редактирование статуса заказа',
     'New' => 'Новый',
     'In processing' => 'В обработке',
+    'Payed' => 'Оплачен',
     'Sent' => 'Отправлен',
     'Delivered' => 'Доставлен',
     'Canceled' => 'Отменён',

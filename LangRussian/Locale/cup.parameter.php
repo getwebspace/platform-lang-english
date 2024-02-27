@@ -186,6 +186,8 @@ return [
     'Volumetric weight' => 'Объёмный вес',
     'Divisor' => 'Коэффициент-делителя',
     'W(cm) &times; H(cm) &times; L(cm) / X = Vw(kg)' => 'Ш(см) &times; В(см) &times; Д(см) / X = ОВ(кг)',
+    'Payment order status' => 'Статус оплаченного заказа',
+    'Automatic change status after order payment via plugin' => 'Автоматически менять статус заказа на указанный после оплаты через плагин',
 
     // user auth by
     'username' => 'Логин',

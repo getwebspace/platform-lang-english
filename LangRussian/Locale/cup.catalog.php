@@ -13,6 +13,7 @@ return [
     'integer' => 'Целое',
     'float' => 'Дробное',
     'boolean' => 'Булево',
+    'Is filter' => 'Фильтр',
 
     // product type
     'product' => 'Продукт',
@@ -70,6 +71,7 @@ return [
     'Price wholesale from' => 'Цена оптом от',
     'Discount' => 'Скидка',
     'Tax' => 'Налог',
+    'Tax included' => 'Включая налог',
     'Special' => 'Акция',
     'Width (cm)' => 'Ширина (см)',
     'Height (cm)' => 'Высота (см)',
@@ -89,8 +91,9 @@ return [
     'Additional description' => 'Дополнительное описание товара',
 
     // order
-    'Date From' => 'Дата добавления С',
-    'Date To' => 'Дата добавления По',
+    'Date From' => 'Добавлен от',
+    'Date To' => 'Добавлен по',
+    'Payment method' => 'Способ оплаты',
     'List of orders' => 'Список заказов',
     'Create order' => 'Создать заказ',
     'Client' => 'Клиент',
@@ -102,7 +105,7 @@ return [
     'Delivery address' => 'Адрес доставки',
     'Delivery date' => 'Дата доставки',
     'Technical information' => 'Техническая информация',
-    'Create status' => 'Создать статус',
+    'Export current order list' => 'Экспортировать текущий список заказов',
     'Order list' => 'Состав заказа',
     'Order date' => 'Дата добавления',
     'Price type' => 'Тип цены',
@@ -126,4 +129,5 @@ return [
     'Force a minimum ordered amount' => 'Установить минимальную заказанную сумму',
     'Sum' => 'Сумма',
     'Total price' => 'Общая сумма',
+    'Create status' => 'Создать статус',
 ];
